@@ -56,13 +56,9 @@
 
 <!-- 联系我 -->
 <div>
-  <h3>Contact me:</h3>
-
-  <div>📨 Email: `zy9085@163.com` </div> 
-  <div>📱 Phone: `15235371219` </div> 
-  <div>👻 QQ: `1015371461` </div> 
-  <div>📫 WeChat: `15235371219` </div>
+  <h3>Contact me: 📧 Email: <code>zy9085@163.com</code></h3>
 </div>
+
 
 <!-- 贪吃蛇 - 图片有 actions/Generate Snake 定时生成 -->
 <!-- <picture>
