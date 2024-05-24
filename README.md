@@ -6,7 +6,7 @@
 </p>
 
 <!-- 贪吃蛇 -->
-![](https://raw.githubusercontent.com/ZhangYuYYDS/ZhangYUYYDS/output/github-contribution-grid-snake-dark.svg)
+![](https://raw.githubusercontent.com/ZhangYuYYDS/ZhangYUYYDS/output/github-contribution-grid-snake.svg)
 
 <!-- 技术栈+常用语言 -->
 <table>
