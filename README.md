@@ -6,33 +6,33 @@
 </p>
 
 
-<!-- 技术栈 -->
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <div style="flex: 1; padding: 10px;">
-    <h3>Languages and Tools:</h3>
-    <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
-    <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
-    <img src="https://img.shields.io/badge/-Vue-46b882?style=flat&logo=vue.js&logoColor=white">
-    <img src="https://img.shields.io/badge/-React-00b4ce?style=flat&logo=react&logoColor=white">
-    <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-    <img src="https://img.shields.io/badge/-Koa-33333D?style=flat&logo=koa&logoColor=white">
-    <img src="https://img.shields.io/badge/-Less-bf608e?style=flat&logo=less&logoColor=white">
-    <img src="https://img.shields.io/badge/-Sass-b37feb?style=flat&logo=sass&logoColor=white">
-    <img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white">
-    <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=github">
-    <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack">
-    <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint">
-  </div>
+<!-- 技术栈+常用语言 -->
+<table>
+  <tr>
+    <td>
+      <h3>Languages and Tools:</h3>
+      <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
+      <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
+      <img src="https://img.shields.io/badge/-Vue-46b882?style=flat&logo=vue.js&logoColor=white">
+      <img src="https://img.shields.io/badge/-React-00b4ce?style=flat&logo=react&logoColor=white">
+      <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+      <img src="https://img.shields.io/badge/-Koa-33333D?style=flat&logo=koa&logoColor=white">
+      <img src="https://img.shields.io/badge/-Less-bf608e?style=flat&logo=less&logoColor=white">
+      <img src="https://img.shields.io/badge/-Sass-b37feb?style=flat&logo=sass&logoColor=white">
+      <img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white">
+      <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=github">
+      <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack">
+      <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint">
+    </td>
+    <td>
+      <h3>Top Langs:</h3>
+      <a href="https://github.com/ZhangYuYYDS/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhangYuYYDS&layout=compact" alt="Top Langs">
+      </a>
+    </td>
+  </tr>
+</table>
 
-
-<!-- 常用语言 -->
-  <div style="flex: 1; padding: 10px;">
-    <h3>Top Langs:</h3>
-    <a href="https://github.com/ZhangYuYYDS/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhangYuYYDS&layout=compact" alt="Top Langs">
-    </a>
-  </div>
-</div>
 
 
 
