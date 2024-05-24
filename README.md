@@ -35,27 +35,24 @@
 
 
 
+<!-- github状态+csdn状态 -->
+<table>
+  <tr>
+    <td>
+      <h3>My GitHub Stats：</h3>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=ZhangYuYYDS&theme=radical" alt="ZhangYuYYDS-github"/>
+      </a>
+    </td>
+    <td>
+      <h3>My CSDN Stats：</h3>
+      <a href="https://stats.justsong.cn/api/csdn?id=ZhangYu_010228">
+        <img src="https://stats.justsong.cn/api/csdn?id=ZhangYu_010228&theme=radical" alt="ZhangYuYYDS-csdn"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-
-
-
-<!-- github状态 -->
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex: 1; padding: 10px;">
-    <h3>My GitHub Stats：</h3>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=ZhangYuYYDS&theme=radical" alt="ZhangYuYYDS-github"/>
-    </a>
-  </div>
-
-<!-- csdn状态 -->
-  <div style="flex: 1; padding: 10px;">
-    <h3>My CSDN Stats：</h3>
-    <a href="https://stats.justsong.cn/api/csdn?id=ZhangYu_010228">
-      <img src="https://stats.justsong.cn/api/csdn?id=ZhangYu_010228&theme=radical" alt="ZhangYuYYDS-csdn"/>
-    </a>
-  </div>
-</div>
 
 <!-- 联系我 -->
 <div>
